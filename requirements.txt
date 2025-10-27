@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langgraph
+langchain
+langchain-openai
+langchain-community
+langchain-anthropic
+langchain-ollama
+google-search-results
